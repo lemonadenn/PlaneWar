@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>ui/character_robot_wide.png</file>
+        <file>ui/contact.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>ui/backgroundtwoo.jpg</file>
+        <file>ui/bgtwo.png</file>
+        <file>ui/bgtwoo.png</file>
+        <file>ui/character_robot_wide.png</file>
+        <file>ui/character_maleAdventurer_attack0.png</file>
+        <file>ui/character_maleAdventurer_back.png</file>
+        <file>ui/character_maleAdventurer_behindBack.png</file>
+        <file>ui/character_maleAdventurer_climb1.png</file>
+        <file>ui/character_maleAdventurer_down.png</file>
+        <file>ui/character_maleAdventurer_fallDown.png</file>
+        <file>ui/character_maleAdventurer_hang.png</file>
+        <file>ui/character_maleAdventurer_idle.png</file>
+        <file>ui/character_maleAdventurer_interact.png</file>
+        <file>ui/character_robot_hit.png</file>
+        <file>ui/9.png</file>
+        <file>ui/微信图片_20230706211406.png</file>
+        <file>ui/微信图片_20230706212010.png</file>
+        <file>ui/ship_0003.png</file>
+        <file>ui/character_robot_cheer1.png</file>
+        <file>ui/character_robot_hold.png</file>
+        <file>ui/ship_0001.png</file>
+        <file>ui/ship_0002.png</file>
+    </qresource>
+</RCC>
